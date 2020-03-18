@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  apiSbifUrl: "https://api.sbif.cl/api-sbifv3/recursos_api/",
+  apiSbifApiKey: "d8093171162117c0c6e8da895b00978d4e2b6a0e"
 };
 
 /*
